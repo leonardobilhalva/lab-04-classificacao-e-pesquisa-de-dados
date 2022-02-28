@@ -1,0 +1,56 @@
+Nomes encontrados:
+NOME15 Anh Alann #1
+NOME28 Eduardo Vernier #1
+NOME48 Marai Farris #1
+NOME49 Emmeri Raelynn #1
+-------------------------------------------------------------------------
+Nomes nao encontrados:
+NOME1 Adris Briannah #3
+NOME2 Graesyn Fallou #2
+NOME3 Aleira Khalani #2
+NOME4 Sonnie Romney #5
+NOME5 Kassaya Aveleen #3
+NOME6 Micaella Zeon #4
+NOME7 Buster Kaegan #3
+NOME8 Dyamond Shamshon #4
+NOME9 Adalys Hasti #2
+NOME10 Anton Grier #2
+NOME11 Jesiyah Sadey #2
+NOME12 Shalayah Morena #6
+NOME13 Aws Asaun #3
+NOME14 Darleth Mays #4
+NOME15 Daniela Nicky #3
+NOME16 Kassius Teya #2
+NOME17 Darel Mubarak #2
+NOME18 Joao Comba #2
+NOME19 Azalaya Andersen #2
+NOME20 Valeska Drayke #2
+NOME21 Makyla Azari #2
+NOME22 Emila Joye #2
+NOME23 Edwardo Sadye #2
+NOME24 Daimon Dua #3
+NOME25 Ruth Macey #4
+NOME26 Arie Liana #2
+NOME27 Wills Makana #2
+NOME28 Kyell Avalina #2
+NOME29 Bodee Garner #2
+NOME30 Aibhlinn Bransyn #4
+NOME31 Jacarion Beatris #3
+NOME32 Symphonee Azalynn #3
+NOME33 Jalin Dajohn #2
+NOME34 Julien Hanief #3
+NOME35 Allen Rella #3
+NOME36 Muiz Demia #2
+NOME37 Juan Ipenza #3
+NOME38 Charolette Avianna #2
+NOME39 Italie Rigley #5
+NOME40 Rowdy Iry #3
+NOME41 Kycen Damari #2
+NOME42 Aafiya Saahir #2
+NOME43 Haniyah Astrid #2
+NOME44 Kynnleigh Kaely #2
+NOME45 Zayed Zeo #3
+NOME46 Eban Nikita #4
+Estatisticas sobre o total de nomes:
+MEDIA #2.62
+MAXIMO #6
